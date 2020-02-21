@@ -40,58 +40,73 @@
         subject themen:
             politik(related to china in news or doc.) / legal translation
                 http://lawinfochina.com/display.aspx?id=65e9b5fb1fc21b64bdfb&lib=law
-                    ---useful phrases:--- 
-                        autonomous regions
-                        municipalities 
-                        Production and Construction Corps
-                        relevant industry organizations; and relevant entities:
-                        hereinafter referred to as the "VR"
-                        VR is an application of multi-domain technologies such as multimedia, 
-                            sensors, new display, the Internet and artificial intelligence
-                        it can expand human perception and change the product modalities and service modes
-                        creates profound impacts on economy, technology, culture, military, life and other fields.
-                        The global virtual reality industry is striding from the initial 
-                            cultivation period to the rapid development period
-                            mm now, VR is in rapid development period
-                        China has a rare opportunity to participate in the international technology industry innovation
-                        but faces problems such as insufficient critical technologies and high-end products, 
-                            inadequate contents and services, unsound innovation support system, 
-                            and imperfect application ecology.
-                        promoting innovation in the application of virtual reality
-                            mm this can, say, promote the innovation in the app... 
-                        cultivating new growth points
-                        Socialism with Chinese Characteristics
-                        the spirit of the 19th CPC National Congress
-                        it shall be comprehensively implemented
-                        establishing standards and rules
-                        new technologies, products, business types, and models in various fields shall be promoted
-                        China's economy and society.
-                        certain industry technology innovation centers will have been built
-                        remarkable breakthroughs in core and critical technological innovation will have been made
-                        By 2025, the overall strength of China's virtual reality industry will have ranked high in the world
-                        certain virtual reality backbone enterprises with relatively strong international competitiveness will have taken shape
-                            mm to be a backbone enterprises 
-                        innovation capability will have been significantly enhanced
-                        the supply of application services will have been greatly improved
-                        Making breakthroughs in critical core technologies
-                        the industrialization of graphics processing units ("GPU") for virtual reality, physics processing units ("PPU"), 
-                            high-performance sensing processing units, and new near-eye display devices shall be accelerated
-                        new-generation graphics interfaces
-                        rendering-specific hardware acceleration chips
-                        light field rendering, and retina rendering
-                        promote rendering technology in developing in high image quality, low latency, and low power consumption directions
-                        millimeter-accurate inside-out positional tracking devices and motion capture devices
-                        increase the effective supply of virtual reality products
-                        Departmental Regulatory Documents
-                        The Legal Information Center has been engaged in the development of electronic law databases in China
-                        legal translation
-                        
-                    --- enrich the words: writing with the materials above ---  
-                        rew- rewriting -- VR investiment in china: 
-                            ...
+                    autonomous regions
+                    municipalities 
+                    Production and Construction Corps
+                    relevant industry organizations; and relevant entities:
+                    hereinafter referred to as the "VR"
+                    VR is an application of multi-domain technologies such as multimedia, 
+                        sensors, new display, the Internet and artificial intelligence
+                    it can expand human perception and change the product modalities and service modes
+                    creates profound impacts on economy, technology, culture, military, life and other fields.
+                    The global virtual reality industry is striding from the initial 
+                        cultivation period to the rapid development period
+                        mm now, VR is in rapid development period
+                    China has a rare opportunity to participate in the international technology industry innovation
+                    but faces problems such as insufficient critical technologies and high-end products, 
+                        inadequate contents and services, unsound innovation support system, 
+                        and imperfect application ecology.
+                    promoting innovation in the application of virtual reality
+                        mm this can, say, promote the innovation in the app... 
+                    cultivating new growth points
+                    Socialism with Chinese Characteristics
+                    the spirit of the 19th CPC National Congress
+                    it shall be comprehensively implemented
+                    establishing standards and rules
+                    new technologies, products, business types, and models in various fields shall be promoted
+                    China's economy and society.
+                    certain industry technology innovation centers will have been built
+                    remarkable breakthroughs in core and critical technological innovation will have been made
+                    By 2025, the overall strength of China's virtual reality industry will have ranked high in the world
+                    certain virtual reality backbone enterprises with relatively strong international competitiveness will have taken shape
+                        mm to be a backbone enterprises 
+                    innovation capability will have been significantly enhanced
+                    the supply of application services will have been greatly improved
+                    Making breakthroughs in critical core technologies
+                    the industrialization of graphics processing units ("GPU") for virtual reality, physics processing units ("PPU"), 
+                        high-performance sensing processing units, and new near-eye display devices shall be accelerated
+                    new-generation graphics interfaces
+                    rendering-specific hardware acceleration chips
+                    light field rendering, and retina rendering
+                    promote rendering technology in developing in high image quality, low latency, and low power consumption directions
+                    millimeter-accurate inside-out positional tracking devices and motion capture devices
+                    increase the effective supply of virtual reality products
+                    Departmental Regulatory Documents
+                    The Legal Information Center has been engaged in the development of electronic law databases in China
+                    legal translation
+                    rew- rewriting -- VR investiment in china: 
+                        ...
+                https://github.com/zhbink/EnglishLearning/blob/master/LLYD/%E6%B5%81%E5%88%A9%E9%98%85%E8%AF%BB%202018.11.10.pdf
+                    we will change the destiny of Brazil   
+                    Part of the reason for his victory was the collapse of the left
+                    the longtime front-runner in the race
+                    money laundering
+                    a record-high number of homicides last year
+                https://github.com/zhbink/EnglishLearning/blob/master/LLYD/%E6%B5%81%E5%88%A9%E9%98%85%E8%AF%BB%202018.11.11.pdf
+                    she was described by Forbes as the world’s most powerful woman
+                    She has been measured, cautious, methodical, pragmatic,
+                        sometimes maddeningly noncommittal and seemingly always in control.
+                    she conceded defeat
+                    whether Merkel will go down in history as the woman
+                        who destroyed Europe, or saved it
+                        mm he goes down in history as a man who make great change in china 
+                        mm The Man Who Changed China
+                The Man Who Changed China https://en.wikipedia.org/wiki/The_Man_Who_Changed_China
+                    It has generated both attention and controversy.
+                    Virtually overnight, the Chinese edition became the number one bestselling book
+                    
 
-
-            tech
+            teches
                 We are thrilled to announce that 
                     we are working on the next major version of Kimai.
                 https://www.pixellegend.com/en/blog/investing-in-augmented-and-virtual-reality-is-it-profitable/
@@ -118,6 +133,10 @@
                         Advancement of the Development of the Virtual Reality Industry
                         mm Ministry of Industry and Information Technology 工信部
                     http://lawinfochina.com/display.aspx?id=65e9b5fb1fc21b64bdfb&lib=law
+                    rew- how do you think about VR nowadays? 
+                        ...
+                
+
                     
 
                     
