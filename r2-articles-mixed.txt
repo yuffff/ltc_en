@@ -38,6 +38,10 @@
                 work with our team of talented engineers and producers to design and build the next generation of our web based applications. Candidate will build browser-based applications and enhance the existing apps. 
     serious
         subject themen:
+            self-introducing 
+                interested in doing strange things, integrating tech. from diff. fields. 
+                    eg. use opencv and opengl together to select picture immersivly.... 
+                  
             politik(related to china in news or doc.) / legal translation
                 http://lawinfochina.com/display.aspx?id=65e9b5fb1fc21b64bdfb&lib=law
                     autonomous regions
@@ -104,7 +108,8 @@
                 The Man Who Changed China https://en.wikipedia.org/wiki/The_Man_Who_Changed_China
                     It has generated both attention and controversy.
                     Virtually overnight, the Chinese edition became the number one bestselling book
-                    
+                    He [Kuhn] wrote objectively; he didn’t try to beautify me. But he got my wedding date wrong
+                
 
             teches
                 We are thrilled to announce that 
@@ -135,10 +140,49 @@
                     http://lawinfochina.com/display.aspx?id=65e9b5fb1fc21b64bdfb&lib=law
                     rew- how do you think about VR nowadays? 
                         ...
-                
+                https://en.wikipedia.org/wiki/Technological_revolution
+                    one or more technologies is replaced by another technology in a short amount of time
+                    rapid application and diffusion cause an abrupt change in society
+                    A technological revolution increases productivity and efficiency
+                    Technological revolution rewrites the material conditions of human existence and can reshape culture
+                    The capacity to transform profoundly the rest of the economy
+                    such as the use of coal as an energy source
+                    can have negative environmental impact
+                    contradictory nature of technological revolution
+                    Industrial Revolution in the 19th century, the scientific-technical revolution 
+                        about 1950–1960, the Neolithic revolution, the Digital Revolution and so on
+                    Information and telecommunications revolution, also known as the Digital Revolution or Third Industrial Revolution
+                    Every revolution utilizes something that is cheap. For instance, the Industrial Revolution had cheap coal 
+                        for iron steam engines which led to production of Iron railways
+                    A combination of low-cost input and new infrastructures are at the core of each revolution to achieve their all pervasive impact
+                    Pre-Industrialization
+                    commercializing
+                    Powered exoskeleton
+                    Unmanned vehicle
+                    change day by day depending upon the current, past and future.
+                    rew- will it be a Technological_revolution? 
+                https://tekraze.com/2018/05/top-10-emerging-technologies-computer-science-must-know/
+                    IOT 
+                        rew- what is IOT
+                    Virtual Reality and AR 
+                        rew- what is VR
+                    Machine Learning
+                        rew- what is ML.
+                    Cloud Computing
+                    Cyber Security
+                    Data Science 
+                    Serverless computing
+                    Blockchain
+                    ...
 
+
+            biological 
+                cell https://en.wikipedia.org/wiki/Cell_(biology)
+                    the basic structural, functional, and biological unit of all known organisms
                     
-
+                virus 
+                    ...
+                ...
                     
             medical  
                 knee
