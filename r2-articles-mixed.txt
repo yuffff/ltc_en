@@ -1,0 +1,216 @@
+
+//
+    shall take some time to form a exampl. which shows the concreate process to learning in this field. 
+    rew- :: rewriting/ retalling -- mix of your words and the new ones 
+        we can extract it too, to practice 
+//
+
+    non-serious
+        feelings 
+            Joy  -sth. funny (Surprise )
+                funny stories 2019
+                https://thoughtcatalog.com/january-nelson/2018/06/funny-stories/
+                http://www.lifesmith.com/jbhumor1.html
+            touched - Emotional Short Stories
+                https://prettyliesstories.blogspot.com/2018/10/10-emotional-short-stories-that-will.html
+
+            sexual -
+                https://www.gotquestions.org/sexual-temptation.html
+                https://juicysexstories.com/sex-with-stranger-stories/unexpected-encounter-with-a-stranger-in-a-movie-hall
+            scared
+        novels/TV show/media 
+            more can be involved
+            rapper 
+            ...
+        cities story 
+            New York 
+                https://travelsofadam.com/2019/03/living-in-nyc/
+                the $60 taxi ride from the airport to my makeshift accommodation (a friend’s couch)
+                The excitement and the anxiety.
+                https://s24348.pcdn.co/wp-content/uploads/2017/07/nyc-top10-empirestatebuilding_3761.jpg.optimal.jpg
+            San Francisco
+                https://evertpot.com/a-look-back-at-sf/
+                https://miro.medium.com/max/2160/1*iOjIRvWjZmCZ7M2dr5kUQQ.jpeg
+                living and working in the technology industry’s epicenter.
+        job information in USA 
+            https://www.indeed.com/q-Software-Engineer-l-New-York,-NY-jobs.html?vjk=ef75c7977f9fa01f
+            We are looking for Web Applications Developers who possess a passion for pushing desktop and mobile technologies to the limits and will 
+                work with our team of talented engineers and producers to design and build the next generation of our web based applications. Candidate will build browser-based applications and enhance the existing apps. 
+    serious
+        subject themen:
+            politik(related to china in news or doc.) / legal translation
+                http://lawinfochina.com/display.aspx?id=65e9b5fb1fc21b64bdfb&lib=law
+                    ---useful phrases:--- 
+                        autonomous regions
+                        municipalities 
+                        Production and Construction Corps
+                        relevant industry organizations; and relevant entities:
+                        hereinafter referred to as the "VR"
+                        VR is an application of multi-domain technologies such as multimedia, 
+                            sensors, new display, the Internet and artificial intelligence
+                        it can expand human perception and change the product modalities and service modes
+                        creates profound impacts on economy, technology, culture, military, life and other fields.
+                        The global virtual reality industry is striding from the initial 
+                            cultivation period to the rapid development period
+                            mm now, VR is in rapid development period
+                        China has a rare opportunity to participate in the international technology industry innovation
+                        but faces problems such as insufficient critical technologies and high-end products, 
+                            inadequate contents and services, unsound innovation support system, 
+                            and imperfect application ecology.
+                        promoting innovation in the application of virtual reality
+                            mm this can, say, promote the innovation in the app... 
+                        cultivating new growth points
+                        Socialism with Chinese Characteristics
+                        the spirit of the 19th CPC National Congress
+                        it shall be comprehensively implemented
+                        establishing standards and rules
+                        new technologies, products, business types, and models in various fields shall be promoted
+                        China's economy and society.
+                        certain industry technology innovation centers will have been built
+                        remarkable breakthroughs in core and critical technological innovation will have been made
+                        By 2025, the overall strength of China's virtual reality industry will have ranked high in the world
+                        certain virtual reality backbone enterprises with relatively strong international competitiveness will have taken shape
+                            mm to be a backbone enterprises 
+                        innovation capability will have been significantly enhanced
+                        the supply of application services will have been greatly improved
+                        Making breakthroughs in critical core technologies
+                        the industrialization of graphics processing units ("GPU") for virtual reality, physics processing units ("PPU"), 
+                            high-performance sensing processing units, and new near-eye display devices shall be accelerated
+                        new-generation graphics interfaces
+                        rendering-specific hardware acceleration chips
+                        light field rendering, and retina rendering
+                        promote rendering technology in developing in high image quality, low latency, and low power consumption directions
+                        millimeter-accurate inside-out positional tracking devices and motion capture devices
+                        increase the effective supply of virtual reality products
+                        Departmental Regulatory Documents
+                        The Legal Information Center has been engaged in the development of electronic law databases in China
+                        legal translation
+                        
+                    --- enrich the words: writing with the materials above ---  
+                        rew- rewriting -- VR investiment in china: 
+                            ...
+
+
+            tech
+                We are thrilled to announce that 
+                    we are working on the next major version of Kimai.
+                https://www.pixellegend.com/en/blog/investing-in-augmented-and-virtual-reality-is-it-profitable/
+                    retail, manufacturing, government, and wholesale
+                    They predict that the industry can reach a value of $80 billion a year
+                    all studies show a cumulative annual growth rate of 40-80%.
+                    Bigger players - bigger bets
+                    Extended Reality has a good commercial value and potential for the future
+                        i think that VR has a good commercial value
+                    Large enterprises are witnessing the growth of AR/VR and planning to develop their future projects
+                    Tim Cook has often expressed his interest in Augmented Reality
+                    shape our lives
+                    track eyes, gestures, and facial expressions
+                    we can ... patents in the field of VR 
+                    it is a Worldwide race 
+                    in the Asia-Pacific region
+                    XR (Extended Reality)
+                    Although the US beat China in VR/AR revenue last year, 
+                        forecasts indicate China may surpass the States soon.
+                        mm the US beat China in VR/AR revenue last year
+                        mm China may surpass the US in the field of VR soon
+                            (annual revenue)
+                    Guiding Opinions of the Ministry of Industry and Information Technology on Accelerating the 
+                        Advancement of the Development of the Virtual Reality Industry
+                        mm Ministry of Industry and Information Technology 工信部
+                    http://lawinfochina.com/display.aspx?id=65e9b5fb1fc21b64bdfb&lib=law
+                    
+
+                    
+            medical  
+                knee
+                    anatomia
+                    The knee is one of the largest and most complex joints in the body
+                    knee joins the thigh bone (femur) to the shin bone (tibia).
+                    kneecap 
+                    Ligaments join the knee bones and provide stability to the knee
+                    The anterior cruciate ligament prevents the femur from sliding backward on      the tibia
+                    The posterior cruciate ligament prevents the femur from sliding forward on      the tibia
+                    The medial and lateral collateral ligaments prevent the femur from sliding side to side.
+                    PCL (posterior cruciate ligament) strain or tear: PCL tears can cause pain,
+                        swelling, and knee instability. These injuries are less common than ACL 
+                        tears, and physical therapy (rather than surgery) is usually the best option
+                    MCL (medial collateral ligament) strain or tear: This injury may cause pain and possible instability to the inner side of the knee.
+                    Gout: A form of arthritis caused by buildup of uric acid crystals in a joint
+                    Arthritis and Pseudogout
+                    Knee osteoarthritis: Osteoarthritis is the most common form of arthritis, and often affects the knees. Caused by aging and wear and tear    of cartilage, osteoarthritis symptoms may include knee pain, stiffness, and swelling.
+            chemistry
+            bio 
+            math
+            the field of computer science 
+            the field of physics/ math 
+                seed and extend:
+                    ...
+            the field of managing 
+                seed and extend:
+                    https://medium.com/blackstar/skillful-thinking-13-habits-to-help-you-innovate-14ed87c5fc88
+                        Meditation does not have to mean sitting cross-legged in silence.
+                            he is sitting cross-legged here... 
+                        Meditation is about centering one’s consciousness in the moment
+                        freeing your mind of intrusive thoughts
+                        bring you to a similar state of consciousness.
+                        To make time for it, you need to change the way you work.
+                        putting out fires...
+            ...
+        artical online
+            unclasssified 
+                https://www.ieltsessentials.com/prepare/free-practice-tests/academic-reading
+                https://my.oschina.net/aibinxiao?tab=newest&catalogId=5875815
+                https://github.com/zhbink/EnglishLearning/tree/master/LLYD
+            tech/health/life/travel...
+                https://www.bbc.com/news/health
+                https://www.bbc.com/news/science_and_environment
+                https://www.bbc.com/news/technology
+                https://www.bbc.com/news/world
+                https://www.bbc.com/news/newsbeat
+                https://www.bbc.com/worklife/
+                http://www.bbc.com/future
+                http://www.bbc.com/travel
+                https://www.foxbusiness.com/technology
+            trade 
+                https://www.independent.co.uk/topic/us-china-trade-war
+            ...
+        books
+            book:ML in action 
+                classification and regression: the output are not the same 
+                data deluge
+                in the future
+                python is recognized as Executable pseudo-code
+                Splitting datasets using one feature at a time : decision trees 
+                Efficiently finding frequent itemsets with FP-growth
+                - 
+                    FP-growth can Efficiently find frequent items 
+                mining a clickstream from a news site 
+            book:intro sci. Com. 
+                it is about reconstruction or prediction of phenomena and processes, esp. from science and engineering
+                third way to obtain knowledge apart from theory and experiment
+                why ? 
+                    impossible, unwelcome , costly
+                experiments are sometimes impossible
+                since experiments are sometimes very unwelcome
+                    propagation of harmful substances
+                since experiments can be extremely costly
+                Ordinary/Partial Differential Equations
+                quantum mechanics
+                “MATLAB-numerics” is not sufficient
+                interpretation of tons of data requires visualization
+                -
+        papers 
+            k-means clustering is NP hard
+            The k-means clustering is investigated 
+                widely 
+                in the Machine Learning society 
+            very high floating point performance
+            a product line for high performance computing 
+            data-parallel computation
+            program is executed on many data elements in parallel
+            programmer to define functions or subroutines, called kernels
+            The solution strategy must expose enough parallelism to completely utilize the GPU’s resources
+            ...
+        ielts-reading 
+            ...
+
