@@ -14,16 +14,32 @@
                 -> it is a rule learning process(may endless)
     lan. learning roadmap: 
         1.basic words 
-        2.basic gramma
+        2.basic gramma to expressing basic idea 
         ---
         3.huge amount of articles reading, no barrier to read words 
         ---
         4.precise gramma for checking, which makes you check you words even when you speaking
     *it is a research field, global problem to understand how we express meanings 
         语言学，语言学家
+    *talking about xx not talking on xxx 
+        动词后面只能接正确介词带出的宾语：erganzung，不同的介词有不同的含义
+    *articles can be seen as: 
+        a set of nouns
+        a set of verbs and their Prepositions
+        a set of all other kinds of words/ elements 
+    help .. to doing -> 这里的to doing 是非谓语
+    非谓语是不是用的很多？ 
+    learn some description rules as result
+        what means xxx, which can be used in which part ... 
 //
+---
+
+
 ---赖世雄
     句子构成
+
+        pre 
+            gain: 基本的语法结构
         + 
             *英语语法其实不严谨，很多时候同一个词或结构可以被看做多种成分，大概是因为英语没有格的概念
                 宾语补语：I saw him crossing the road.（视为后置定语也可以）
@@ -40,9 +56,10 @@
                 所谓“只见树木，不见森林”
             原因也许恰恰就在于我们背诵了太多语法条目，众多语法点交织起来，反而使我们不能形成一个完整的语法体系
             pp- God bless you为什么不是God blesses you
-
-
+    -倒装
     句子连接（关系词，代词连词）
+        并列连接词
+    --- corepart
     不定式非谓语
         +
             非谓语动词是指在句子中不是谓语的动词
@@ -78,7 +95,8 @@
                 My colleague teaching English has the report.
             ---
             (S + V1) + (S + be + X) = S + V1, X （其中X就是非谓语动词）
+    助动词动词和时态与虚拟语气
+    副词比较
+    形容词介词代词数量词
 
-
-    
 ---张道真
