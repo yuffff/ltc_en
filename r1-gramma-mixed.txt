@@ -9,7 +9,7 @@
         *口语写作的时候：word selecting + gramma checking
         *语感其实很简单，根据语言材料可以轻松整合各种语言成分进行表达，但是是否得体合理？ 
             checking是一个很重要的问题
-        *be able to check is enough 
+        *be able to check/ be able to extend existing sentences
             be familier to the rules, 
                 -> it is a rule learning process(may endless)
     lan. learning roadmap: 
@@ -31,10 +31,34 @@
     非谓语是不是用的很多？ 
     learn some description rules as result
         what means xxx, which can be used in which part ... 
+    *句子具有树形结构，但是光知道结构是不行的，其中有很多细节--每个细枝末节几乎都有习惯用法和要求。应该熟悉他们。
+        也就是各种rules。
 //
----
+res
+    http://www.phrasebank.manchester.ac.uk/
+    https://www.easypacelearning.com/grammar/nouns/1446-collective-nouns-1
+    https://pan.baidu.com/s/1skeBCNb#list/path=%2F%E6%9F%AF%E6%9E%97%E6%96%AF%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E5%A4%A7%E5%85%A8
+    http://elibrary.bsu.az/books_250/N_88.pdf
+    
+    gramma is sth. can be researched world wide, ofcaourse we can learn them in english 
+    https://www.grammar-monster.com/glossary/non-finite_verbs.htm
+
+---https://www.zhihu.com/question/40342212
+    分析固定搭配后面隐藏的语法意义：介词短语构成各种成分！ 
+    ...
+    “动词 + 介词”搭配是由“介词短语作状语修饰*动词”所形成的，比如“look at”，
+        The kid is looking at a little rabbit.
+        其实后面是介词短语
+    形容词 + 介词”搭配是由“介词短语作状语修饰*形容词”， 比如“different from”
+    *相当于德语中的Erganzung搭配
+    “介词短语作定语”所构成的搭配，比如“take the place of”
+    “动词 + 副词”构成的搭配：比如“stand up” 其实后面是副词，修饰动词
 
 
+---basicenglishgrammarbook2.pdf
+---englishgrammarbook.pdf
+---Oxford%20Modern%20English%20Grammar.pdf
+---张道真
 ---赖世雄
     句子构成
 
@@ -99,4 +123,4 @@
     副词比较
     形容词介词代词数量词
 
----张道真
+
